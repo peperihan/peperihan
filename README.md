@@ -24,10 +24,9 @@ Inspired by **Cuphead**, I enjoy challenges, continuous learning, and turning id
 - [ ] Learn modern JavaScript
 ---
 ## 📊 GitHub Stats
-<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peperihan&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peperihan&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff)
-</div>
 ---
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-antonio-beltrão-rihan-b033553b7)
