@@ -9,9 +9,6 @@ Hi, I'm **Pedro Antonio Rihan**.
 ## 🎮 About Me
 I'm passionate about technology and software development. I'm currently studying Computer Science and building projects to improve my programming and web development skills.
 Inspired by **Cuphead**, I enjoy challenges, continuous learning, and turning ideas into real projects.
-
-![Cuphead](https://github.com/peperihan/peperihan/raw/main/cuphead.gif)
-
 ---
 ## 🛠️ Technologies
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -37,3 +34,4 @@ Inspired by **Cuphead**, I enjoy challenges, continuous learning, and turning id
 ---
 > *"Every boss battle is just another opportunity to level up."*
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000,222222,444444&height=100&section=footer)
+coloque esse gif aqui abaixo do texto que fala sobre cuphead:
