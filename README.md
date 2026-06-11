@@ -1,5 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=000000,222222,444444&height=200&text=peperihan&fontColor=fff&animation=fadeIn&fontAlign=50&fontAlignY=40&fontSize=60&fontFamily=Boogaloo&stroke=ffffff&strokeWidth=3)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=000000&center=false&vCenter=true&width=500&height=50&lines=Computer+Science+Student+🎮;Web+Developer+🚀;Always+leveling+up+⚔️)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student+🎮;Web+Developer+🚀;Always+leveling+up+⚔️)](https://git.io/typing-svg)
+
+</div>
 # ☕ Welcome to My Profile!
 Hi, I'm **Pedro Antonio Rihan**.
 🎓 Computer Science Student
