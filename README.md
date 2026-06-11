@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000,222222,444444&height=200&text=peperihan&fontColor=fff&animation=fadeIn&fontAlign=50&fontAlignY=40&fontSize=60&fontFamily=Boogaloo&stroke=ffffff&strokeWidth=3)
+<div align="center">
+
+![Header](https://github.com/peperihan/peperihan/raw/main/d5rh8vm-51c957e4-147e-4e4b-ba68-12a59bdee36d.gif)
+
+</div>
 
 <div align="center">
 
