@@ -2,10 +2,6 @@
 
 ![Header](https://github.com/peperihan/peperihan/raw/main/d5rh8vm-51c957e4-147e-4e4b-ba68-12a59bdee36d.gif)
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student+🎮;Web+Developer+🚀;Always+leveling+up+⚔️)](https://git.io/typing-svg)
 
 </div>
