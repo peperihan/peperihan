@@ -35,10 +35,8 @@ I'm passionate about technology and software development. I'm currently studying
 
 ## 🎯 Current Goals
 
-- [ ] Improve my Python skills
-- [ ] Build more web development projects
-- [ ] Learn modern JavaScript
-
+- [ ] Learn more about C Programming language
+- [ ] Improve my English skills to become C1
 ---
 
 ## 📊 GitHub Stats
