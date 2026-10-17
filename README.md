@@ -8,11 +8,11 @@
 
 # ☕ Welcome to My Profile!
 
-Hi, I'm **Pedro Antonio Rihan**.
+Hi, I'm **PedroRihan**.
 
 🎓 Computer Science Student
 💻 Web Developer
-🚀 Currently learning Python, HTML, CSS, and JavaScript.
+🚀 Currently learning C Programming.
 
 ---
 
