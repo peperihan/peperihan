@@ -20,10 +20,6 @@ Hi, I'm **PedroRihan**.
 
 I'm passionate about technology and software development. I'm currently studying Computer Science and building projects to improve my programming and web development skills.
 
-Inspired by **Cuphead**, I enjoy challenges, continuous learning, and turning ideas into real projects.
-
-![Cuphead](https://github.com/peperihan/peperihan/raw/main/cuphead.gif)
-
 ---
 
 ## 🛠️ Technologies
